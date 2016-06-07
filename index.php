@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Google app store">
     <meta name="author" content="kotryn">
-    <title>Szukaj w Google </title>
+    <title>Szukaj w Google Play</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link href="includes/favicon.ico" rel="icon" type="image/x-icon" />
   </head>
