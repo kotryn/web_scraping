@@ -60,21 +60,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
  </body>
-	<script>
-		//find_app(); // Call the add_task function    
-		//function find_app() {
-
-		//	$('#submit').ready(function(){
-
-		//			document.write('<div>Print this after the script tag</div>');
-
-		//		}
-				//document.write('<div>Print this after the script tag</div>');
-		//		return false; // Ensure that the form does not submit twice
-		//	});
-		//}
-  	</script>
-
 </html>
 
 
